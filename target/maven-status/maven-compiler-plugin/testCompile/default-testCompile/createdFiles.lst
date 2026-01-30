@@ -1,0 +1,4 @@
+com/lua/converter/ComprehensiveLuaConverterTest.class
+com/lua/converter/JarToLuaConverterTest.class
+com/lua/converter/JsToLuaConverterTest.class
+com/lua/converter/JavaToLuaConverterTest.class
